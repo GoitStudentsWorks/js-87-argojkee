@@ -5,7 +5,7 @@
   "homepage": "https://GoitStudentsWorks.github.io/js-87-argojkee",
   "scripts": {
     "start": "npx parcel src/index.html",
-    "build": "parcel build src/*.html --public-url /bookshelf/"
+    "build": "parcel build src/*.html --public-url /js-87-argojkee/"
   },
   "repository": {
     "type": "git",
